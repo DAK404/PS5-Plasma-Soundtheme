@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=PS5
+Comment=PS5 For KDE Plasma 6
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
