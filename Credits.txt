@@ -1,0 +1,8 @@
+PS5 KDE Plasma Sound Theme
+Author: DAK404 (https://github.com/DAK404)
+
+-----------------------------------------------------
+
+Many Thanks To:
+
+u/spryfigure (reddit: https://www.reddit.com/user/spryfigure/) : Pointed to sources containing the FLAC files
